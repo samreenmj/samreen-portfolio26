@@ -1,11 +1,19 @@
 export const projects = [
   {
-    title: "Solana Ticketing DApp",
+  title: "DevContext",
+  description:
+    "A full-stack MERN application that allows developers to securely store and manage personal coding notes with JWT-based authentication.",
+  tech: ["React", "Node.js", "Express", "MongoDB", "JWT", "TailwindCSS"],
+  link: "https://dental-mock-in5t1yj42-samreens-projects-c37bd69e.vercel.app",
+},
+
+ { title: "SmileCare-Modern Dental Clinic Website (UI/UX Mock)",
     description:
-      "Decentralized event ticketing system built with Anchor and Solana programs.",
-    tech: ["Solana", "Anchor", "React", "TypeScript"],
-    link: "https://github.com/samreenmj",
+      "A high-conversion dental clinic website mock designed with modern UI/UX principles. The platform focuses on patient trust, accessibility, and seamless navigation, featuring service highlights, team introductions, and appointment-focused CTAs. Built with a clean and responsive design system to simulate real-world healthcare web experiences..",
+    tech: ["Next.js", "TailwindCSS", "Responsive UI", "UI/UX Design"],
+    link: "https://github.com/samreenmj/solana-devnet-faucet"
   },
+
   {
     title: "AI Link Vault",
     description:
